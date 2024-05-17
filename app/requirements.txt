@@ -1,0 +1,4 @@
+Flask[async]
+asyncpg
+postgrest
+requests
